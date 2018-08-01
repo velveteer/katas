@@ -1,4 +1,4 @@
-module Katas.SumOdds where
+-- https://www.codewars.com/kata/sum-of-odd-numbers
 
 -- Given the triangle of consecutive odd numbers:
 
@@ -11,6 +11,8 @@ module Katas.SumOdds where
 -- Calculate the row sums of this triangle from the row index (starting at index 1) e.g.:
 -- rowSumOddNumbers 1 -- 1
 -- rowSumOddNumbers 2 -- 3 + 5 = 8
+
+module Katas.SumOdds where
 
 rowSumOddNumbers :: Integer -> Integer
 rowSumOddNumbers = undefined
