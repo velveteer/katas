@@ -12,7 +12,7 @@
 
 -- Return the resulting lamps string. See example tests for more clarity.
 
-module Katas.DroneFlyBy (flyBy) where
+module Katas.Kyu7.DroneFlyBy (flyBy) where
 
 flyBy :: String -> String -> String
 flyBy lamps drone = undefined

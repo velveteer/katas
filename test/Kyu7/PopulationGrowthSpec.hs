@@ -1,6 +1,6 @@
-module PopulationGrowthSpec (spec) where
-import Katas.PopulationGrowth (nbYear)
+module Kyu7.PopulationGrowthSpec (spec) where
 
+import Katas.Kyu7.PopulationGrowth (nbYear)
 import Test.Hspec
 import Test.QuickCheck
 import Text.Printf (printf)

@@ -1,6 +1,6 @@
-module LostWithoutSpec (spec) where
+module Kyu8.LostWithoutSpec (spec) where
 
-import Katas.LostWithout (maps)
+import Katas.Kyu8.LostWithout (maps)
 import Test.Hspec
 import Test.Hspec.QuickCheck
 import Test.QuickCheck

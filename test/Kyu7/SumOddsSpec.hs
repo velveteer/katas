@@ -1,6 +1,6 @@
-module SumOddsSpec (spec) where
+module Kyu7.SumOddsSpec (spec) where
 
-import Katas.SumOdds (rowSumOddNumbers)
+import Katas.Kyu7.SumOdds (rowSumOddNumbers)
 import Test.Hspec
 
 spec :: Spec

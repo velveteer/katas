@@ -1,7 +1,7 @@
-module DroneFlyBySpec (spec) where
+module Kyu7.DroneFlyBySpec (spec) where
 
+import Katas.Kyu7.DroneFlyBy (flyBy)
 import Test.Hspec
-import Katas.DroneFlyBy (flyBy)
 
 spec :: Spec
 spec = do

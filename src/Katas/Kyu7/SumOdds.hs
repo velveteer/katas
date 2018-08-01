@@ -12,7 +12,7 @@
 -- rowSumOddNumbers 1 -- 1
 -- rowSumOddNumbers 2 -- 3 + 5 = 8
 
-module Katas.SumOdds where
+module Katas.Kyu7.SumOdds where
 
 rowSumOddNumbers :: Integer -> Integer
 rowSumOddNumbers = undefined

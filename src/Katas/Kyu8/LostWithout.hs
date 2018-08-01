@@ -8,7 +8,7 @@
 
 -- For the beginner, try to use the map method - it comes in very handy quite a lot so is a good one to know.
 
-module Katas.LostWithout where
+module Katas.Kyu8.LostWithout where
 
 maps :: [Int] -> [Int]
 maps xs = map (\x -> x * 2) xs
